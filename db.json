@@ -7,12 +7,6 @@
       "image": "https://images-na.ssl-images-amazon.com/images/I/71Q1ckgmeQL._SX425_.jpg"
     },
     {
-      "id": 2,
-      "name": "Mothra",
-      "power": "Poison Powder",
-      "image": "https://images-na.ssl-images-amazon.com/images/I/61Jp8FUo27L._SX466_.jpg"
-    },
-    {
       "id": 3,
       "name": "King Kong",
       "power": "Banana",
@@ -23,6 +17,18 @@
       "name": "Gidorah",
       "power": "Lightning breath",
       "image": "https://i.ebayimg.com/images/g/kskAAOSwp2VdldA4/s-l640.jpg"
+    },
+    {
+      "name": "Teddy",
+      "power": "yo",
+      "image": "https://vignette.wikia.nocookie.net/jimmyneutron/images/5/57/Jimmy_Neutron.png/revision/latest?cb=20180219044703",
+      "id": 5
+    },
+    {
+      "name": "Sulley",
+      "power": "Big Fuck",
+      "image": "https://vignette.wikia.nocookie.net/monstersincmovies/images/0/09/Sulley_002.jpg/revision/latest/top-crop/width/360/height/450?cb=20130512141939",
+      "id": 6
     }
   ],
   "sightings": [
